@@ -12,13 +12,12 @@ Data Science & Machine Learning инженер | Ведущий инженер-�
 - 🔍 **RAG**: Поиск и извлечение знаний из корпоративной базы данных
 - 📝 **NLP/CV**: Интеллектуальный контроль версий конструкторской документации
   
-## Хобби проекты 
-- 🎮 **GameDev**
-- 📚 [**Изучение английского языка**](https://github.com/EgorTatarnikov/WordsTraining)
+## Хобби-проекты 
+- 📚 [**Foreign Languages**](https://github.com/EgorTatarnikov/ForeignLanguages)
+- 🎮 [**Game Development**]()
 
 ## Основной стек
-**Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP**<br>
-MS Excel · matplotlib · seaborn
+Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP · MS Excel · matplotlib · seaborn
 
 ---
 Ниже закреплены ключевые проекты и портфолио
