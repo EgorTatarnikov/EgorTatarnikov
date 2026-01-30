@@ -16,7 +16,7 @@ Data Science & Machine Learning инженер | Ведущий инженер-�
   
 ## Хобби-проекты 
 - 📚 [**Foreign Languages**](https://github.com/EgorTatarnikov/ForeignLanguages) - приложения и материалы для изучения иностранных языков
-- 🎮 [**Game Development**]() - опубликованные игры на Unity и в других форматах
+- 🎮 [**Game Development**](https://github.com/EgorTatarnikov/GameDev) - опубликованные игры на Unity и в других форматах
 
 ## Основной стек
 Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP · matplotlib · seaborn · MS Excel
