@@ -1,6 +1,6 @@
 # Привет, я Егор Татарников
 Data Science & Machine Learning инженер | Ведущий инженер-конструктор<br>
-Применяю **DS и ML** для решения прикладных инженерных задач на стыке **конструирования и ИИ**
+Применяю **DS и ML** для решения реальных инженерных задач на стыке **конструирования и ИИ**
 
 ## Область деятельности
 - **Конструирование** космической техники, **проведение испытаний** и **анализ** результатов для улучшения конструкций
@@ -9,17 +9,18 @@ Data Science & Machine Learning инженер | Ведущий инженер-�
 
 ## Ключевые проекты
 - 👁 **CV**: CAD-ориентированное компьютерное зрение для технологического контроля в единичном производстве
-- 🔍 **RAG**: Интеллектуальный поиск по базе знаний корпорации 
-- 📝 **NLP/CV**: Семантическое сравнение версий конструкторской документации
-- 🌍 **NLP**: Приложение для изучения английских слов с NLP для подготовки учебных материалов
+- 📝 **NLP+CV**: Семантическое сравнение версий конструкторской документации
+- 🔍 **RAG/NLP**: Интеллектуальный поиск по базе знаний корпорации 
+- <img src="https://raw.githubusercontent.com/EgorTatarnikov/WordByHeart/main/WordByHeart_v2.svg" width="22" height="22" alt="wt badge"> **[Word by Heart](https://github.com/EgorTatarnikov/WordByHeart)**:
+**NLP**-приложение для подготовки английской лексики к изучению
   
 ## Другие проекты и портфолио
-- 🎓 [**Data Science / Machine Learning**](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio): Учебные проекты и портфолио
+- 🎓 [**DS/ML Learning Portfolio**](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio): Учебные проекты и портфолио
 - 📚 [**Foreign Languages**](https://github.com/EgorTatarnikov/ForeignLanguages): Приложения и материалы для изучения иностранных языков
 - 🎮 [**Game Development**](https://github.com/EgorTatarnikov/GameDev): Опубликованные игры на Unity и в других форматах
 
 ## Основной стек
-Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP · matplotlib · seaborn · MS Excel · C# · Unity · 3D Modeling
+Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP · matplotlib · seaborn · MS Excel · C# / Unity · 3D Modeling
 
 ---
 Ниже закреплены ключевые репозитории ↓
