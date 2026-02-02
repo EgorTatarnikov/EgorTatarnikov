@@ -7,19 +7,19 @@ Data Science & Machine Learning инженер | Ведущий инженер-�
 - **Статистический анализ** допусков и отклонений, **прогнозирование** вероятности несоответствий
 - **Data Science и ML** для построения эмпирических моделей, автоматизации процессов и контроля качества
 
-## Ключевые проекты и портфолио
+## Ключевые проекты
 - 👁 **CV**: CAD-ориентированное компьютерное зрение для технологического контроля в единичном производстве
 - 🔍 **RAG**: Интеллектуальный поиск по базе знаний корпорации 
 - 📝 **NLP/CV**: Семантическое сравнение версий конструкторской документации
-- 🌍 **NLP**: Приложение для изучения английских слов с NLP для анализа текстов
-- 🎓 **DS/ML**: [Учебное портфолио](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio)
+- 🌍 **NLP**: Приложение для изучения английских слов с NLP для подготовки учебных материалов
   
-## Хобби-проекты 
-- 📚 [**Foreign Languages**](https://github.com/EgorTatarnikov/ForeignLanguages) - приложения и материалы для изучения иностранных языков
-- 🎮 [**Game Development**](https://github.com/EgorTatarnikov/GameDev) - опубликованные игры на Unity и в других форматах
+## Другие проекты и портфолио
+- 🎓 [**Data Science / Machine Learning**](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio): Учебные проекты и портфолио
+- 📚 [**Foreign Languages**](https://github.com/EgorTatarnikov/ForeignLanguages): Приложения и материалы для изучения иностранных языков
+- 🎮 [**Game Development**](https://github.com/EgorTatarnikov/GameDev): Опубликованные игры на Unity и в других форматах
 
 ## Основной стек
-Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP · matplotlib · seaborn · MS Excel
+Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP · matplotlib · seaborn · MS Excel · C# · Unity · 3D Modeling
 
 ---
 Ниже закреплены ключевые репозитории ↓
