@@ -11,7 +11,7 @@ Data Science & Machine Learning инженер | Ведущий инженер-�
 - 👁 **CV**: CAD-ориентированное компьютерное зрение для технологического контроля в единичном производстве
 - 📝 **NLP+CV**: Семантическое сравнение версий конструкторской документации
 - 🔍 **RAG/NLP**: Интеллектуальный поиск по базе знаний корпорации 
-- <img src="https://raw.githubusercontent.com/EgorTatarnikov/WordByHeart/main/WordByHeart_v2.svg" width="22" height="22" alt="wt badge"> **[Word by Heart](https://github.com/EgorTatarnikov/WordByHeart)**:
+- <img src="https://raw.githubusercontent.com/EgorTatarnikov/WordByHeart/main/WordByHeart_v2.svg" width="20" height="20" alt="wt badge"> **[Word by Heart](https://github.com/EgorTatarnikov/WordByHeart)**:
 **NLP**-приложение для подготовки английской лексики к изучению
   
 ## Другие проекты и портфолио
@@ -20,7 +20,7 @@ Data Science & Machine Learning инженер | Ведущий инженер-�
 - 🎮 [**Game Development**](https://github.com/EgorTatarnikov/GameDev): Опубликованные игры на Unity и в других форматах
 
 ## Основной стек
-Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP · matplotlib · seaborn · MS Excel · C# / Unity · 3D Modeling
+Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP · matplotlib · seaborn · MS Excel · 3D Modeling · C#&nbsp;/&nbsp;Unity
 
 ---
 Ниже закреплены ключевые репозитории ↓
