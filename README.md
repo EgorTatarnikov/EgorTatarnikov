@@ -16,9 +16,10 @@ Data Science & Machine Learning инженер | Ведущий инженер-�
   
 ## Другие проекты и портфолио
 - 🎓 [**DS/ML Learning Portfolio**](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio): Учебные проекты и портфолио
+- 📖 [**Материалы по DS/ML**](https://github.com/EgorTatarnikov/DS_notes): Конспекты, заметки, примеры кода, обзоры инструментов и библиотек
 - 📚 [**Foreign Languages**](https://github.com/EgorTatarnikov/ForeignLanguages): Приложения и материалы для изучения иностранных языков
 - 🎮 [**Game Development**](https://github.com/EgorTatarnikov/GameDev): Опубликованные игры на Unity и в других форматах
-
+  
 ## Основной стек
 Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Computer Vision · NLP · matplotlib · seaborn · MS Excel · 3D Modeling · C#&nbsp;/&nbsp;Unity
 
