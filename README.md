@@ -11,8 +11,7 @@ Data Science & Machine Learning инженер | Ведущий инженер-�
 - 👁 **CV**: CAD-ориентированное компьютерное зрение для технологического контроля в единичном производстве
 - 📝 **NLP+CV**: Семантическое сравнение версий конструкторской документации
 - 🔍 **RAG/NLP**: Интеллектуальный поиск по базе знаний корпорации 
-- 💜 **[Word by Heart](https://github.com/EgorTatarnikov/WordByHeart)**:
-**NLP**-приложение для подготовки английской лексики к изучению
+- <img align="center" src="https://raw.githubusercontent.com/EgorTatarnikov/WordByHeart/main/WordByHeart_v2.svg" width="20" alt="wt badge"> **[Word by Heart](https://github.com/EgorTatarnikov/WordByHeart)**: **NLP**-приложение для подготовки английской лексики к изучению
   
 ## Другие проекты и портфолио
 - 🎓 [**DS/ML Learning Portfolio**](https://github.com/EgorTatarnikov/DS_ML_Learning_Portfolio): Учебные проекты и портфолио
